@@ -1,0 +1,3 @@
+**/*.pyc
+logs_dir/
+results/
